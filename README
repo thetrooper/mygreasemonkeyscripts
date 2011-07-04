@@ -1,0 +1,4 @@
+* strikethrough.user.js - script that can be used as GTD Util. For code review comments, this can be used to select comment and strike it through as you go work on it. Same applies to step by step tutorials, recipes etc etc. 
+
+TODO: Add flexibility to add multiple sites on which it should work
+TODO: undo 

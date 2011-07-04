@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          SelectedText
+// @name          strikethrough
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require		  https://raw.github.com/bartaz/sandbox.js/master/jquery.highlight.js
 // @include       http://www.google.com/*
